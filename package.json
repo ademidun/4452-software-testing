@@ -1,0 +1,17 @@
+{
+  "name": "se4452a-testing-lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "purcahseOrder2F18Solutions.js",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {
+    "nyc": "^14.1.1"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC"
+}
